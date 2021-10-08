@@ -21,9 +21,8 @@ over_voltage_sdram=-4
 over_voltage_sdram_c=-4
 over_voltage_sdram_i=-4
 over_voltage_sdram_p=-4
-# They say might be implemented in pi4 at some stage..
-hdmi_blanking=1
-hdmi_mode=1
+# hdmi_blanking=1 might be implemented in pi4 at some stage, we are just trying 2 not sure if that works...
+hdmi_blanking=2
 
 # Other not needed.
 disable_splash=1
