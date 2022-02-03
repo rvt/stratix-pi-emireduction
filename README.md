@@ -7,7 +7,7 @@ Documention on what I did to reduce AMI on stratux with a PI4
 See also :    https://www.raspberrypi.com/documentation/computers/config_txt.html#never_over_voltage
 Discussions : https://forums.raspberrypi.com/viewtopic.php?f=29&t=6201&start=250
 
-Enabled and set in `/etc/config.txt`
+Enabled and set in `/boot/config.txt`
 
 ```console
 # Reduce EMI
